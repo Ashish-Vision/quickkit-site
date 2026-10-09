@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ashish-vision.github.io/quickkit-site/sitemap.xml
